@@ -8,6 +8,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'eldovalleybaptistacademy.onrender.com',
+    'eldovalley.onrender.com',
     '127.0.0.1',# Other allowed hosts...
 ]
 
